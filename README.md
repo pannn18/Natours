@@ -24,8 +24,8 @@ Proyek ini dibangun menggunakan **HTML** dan **SCSS* serta menonjolkan desain ya
 ---
 
 ## 🌍 Demo Langsung
-👉 **[Lihat Natours di sini](#)**  
-*(Ganti # dengan link live demo kamu)*
+👉 **[https://natours-project-lovat.vercel.app/](#)**  
+
 
 ---
 
